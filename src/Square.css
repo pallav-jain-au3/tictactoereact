@@ -1,0 +1,12 @@
+.square{
+    height: 5em;
+    width: 5em;
+    border: 1px solid black;
+    background: #eeeeee;
+    font-size : 2em;
+    font-weight: bold;
+}
+.highlight{
+    background: green;
+    color:white;
+}
